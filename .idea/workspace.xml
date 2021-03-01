@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e8f9b74-42d4-482a-ace4-c83c12de213f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ozRZ16SpX5WXHJo7P47AeA2OJg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ninjaplus" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestAPI.favoritaDesfavorita">
+    <configuration name="TestAPI.apagarVotacao" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestsAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestsAPI" />
+      <option name="MAIN_CLASS_NAME" value="TestsAPI.TestAPI" />
+      <option name="METHOD_NAME" value="apagarVotacao" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI.apagarVoto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestsAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestsAPI" />
+      <option name="MAIN_CLASS_NAME" value="TestsAPI.TestAPI" />
+      <option name="METHOD_NAME" value="apagarVoto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI.cadastro_email" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestsAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestsAPI" />
+      <option name="MAIN_CLASS_NAME" value="TestsAPI.TestAPI" />
+      <option name="METHOD_NAME" value="cadastro_email" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI.favoritaDesfavorita" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestsAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestsAPI" />
+      <option name="MAIN_CLASS_NAME" value="TestsAPI.TestAPI" />
+      <option name="METHOD_NAME" value="favoritaDesfavorita" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAPI.votar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TestsAPI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestsAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestsAPI" />
+      <option name="MAIN_CLASS_NAME" value="TestsAPI.TestAPI" />
+      <option name="METHOD_NAME" value="votar" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestAPI.favoritaDesfavorita" />
+        <item itemvalue="JUnit.TestAPI.apagarVotacao" />
+        <item itemvalue="JUnit.TestAPI.apagarVoto" />
+        <item itemvalue="JUnit.TestAPI.votar" />
+        <item itemvalue="JUnit.TestAPI.cadastro_email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e8f9b74-42d4-482a-ace4-c83c12de213f" name="Default Changelist" comment="" />
+      <created>1614287483426</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614287483426</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614617576417">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614617576417" />
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1614622682558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="137" key="GridCell.Tab.0.bottom/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622682558" />
+    <state width="1323" height="137" key="GridCell.Tab.0.center" timestamp="1614622682558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="137" key="GridCell.Tab.0.center/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622682558" />
+    <state width="1323" height="137" key="GridCell.Tab.0.left" timestamp="1614622682558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="137" key="GridCell.Tab.0.left/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622682558" />
+    <state width="1323" height="137" key="GridCell.Tab.0.right" timestamp="1614622682558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="137" key="GridCell.Tab.0.right/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622682558" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1614622612971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622612971" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1614622612971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622612971" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1614622612970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622612970" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1614622612971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614622612971" />
+    <state x="379" y="0" width="607" height="728" key="find.popup" timestamp="1614623964439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="0" width="607" height="728" key="find.popup/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614623964439" />
+  </component>
+</project>
