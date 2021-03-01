@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e8f9b74-42d4-482a-ace4-c83c12de213f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,10 +152,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614617576417">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1614624919009">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614617576417" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/-165.-1080.1920.1040@0.0.1366.728" timestamp="1614624919009" />
     <state width="1323" height="137" key="GridCell.Tab.0.bottom" timestamp="1614622682558">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -1,3 +1,11 @@
-*\.xml
-*\.html
-*\.ideia
+.settings
+.project
+.classpath
+target/
+test-output/
+node_modules/**
+.orig
+*.png
+*.jpg
+*.html
+*.xml
